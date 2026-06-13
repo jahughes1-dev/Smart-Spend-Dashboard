@@ -1,0 +1,94 @@
+date,merchant,amount,category
+2026-03-01,Starbucks,6.45,Food & Drink
+2026-03-01,Shell Gas Station,42.10,Transportation
+2026-03-02,Whole Foods,87.32,Groceries
+2026-03-03,Netflix,15.99,Entertainment
+2026-03-04,Starbucks,5.75,Food & Drink
+2026-03-05,Amazon,34.99,Shopping
+2026-03-06,Chipotle,12.85,Food & Drink
+2026-03-07,Target,64.21,Shopping
+2026-03-08,Uber,18.50,Transportation
+2026-03-09,Trader Joe's,52.40,Groceries
+2026-03-10,Spotify,10.99,Entertainment
+2026-03-11,Starbucks,6.45,Food & Drink
+2026-03-12,CVS Pharmacy,23.18,Health
+2026-03-13,Best Buy,489.99,Electronics
+2026-03-14,Chipotle,13.40,Food & Drink
+2026-03-15,Shell Gas Station,45.00,Transportation
+2026-03-16,Amazon,21.47,Shopping
+2026-03-17,Olive Garden,58.90,Food & Drink
+2026-03-18,Whole Foods,93.15,Groceries
+2026-03-19,Uber,24.75,Transportation
+2026-03-20,Planet Fitness,24.99,Health
+2026-03-21,Starbucks,7.20,Food & Drink
+2026-03-22,Home Depot,156.78,Home
+2026-03-23,Amazon,49.99,Shopping
+2026-03-24,Chipotle,12.85,Food & Drink
+2026-03-25,Luxe Jewelers,350.00,Shopping
+2026-03-26,Trader Joe's,48.62,Groceries
+2026-03-27,Shell Gas Station,40.25,Transportation
+2026-03-28,AMC Theatres,32.50,Entertainment
+2026-03-29,Starbucks,6.45,Food & Drink
+2026-03-30,Rent Payment Co,1200.00,Housing
+2026-03-31,Whole Foods,78.90,Groceries
+2026-04-01,Netflix,15.99,Entertainment
+2026-04-02,Starbucks,5.75,Food & Drink
+2026-04-03,Uber,15.20,Transportation
+2026-04-04,Amazon,67.84,Shopping
+2026-04-05,Chipotle,14.10,Food & Drink
+2026-04-06,Target,43.55,Shopping
+2026-04-07,Shell Gas Station,44.80,Transportation
+2026-04-08,Trader Joe's,55.27,Groceries
+2026-04-09,Spotify,10.99,Entertainment
+2026-04-10,Starbucks,6.45,Food & Drink
+2026-04-11,CVS Pharmacy,18.45,Health
+2026-04-12,Olive Garden,62.35,Food & Drink
+2026-04-13,Amazon,29.99,Shopping
+2026-04-14,Whole Foods,84.70,Groceries
+2026-04-15,Uber,21.30,Transportation
+2026-04-16,Planet Fitness,24.99,Health
+2026-04-17,Starbucks,7.20,Food & Drink
+2026-04-18,TechWorld Online,275.49,Electronics
+2026-04-19,Chipotle,13.40,Food & Drink
+2026-04-20,Shell Gas Station,46.15,Transportation
+2026-04-21,Amazon,38.25,Shopping
+2026-04-22,Trader Joe's,51.88,Groceries
+2026-04-23,AMC Theatres,28.00,Entertainment
+2026-04-24,Starbucks,6.45,Food & Drink
+2026-04-25,Home Depot,89.42,Home
+2026-04-26,Whole Foods,91.05,Groceries
+2026-04-27,Uber,19.85,Transportation
+2026-04-28,Chipotle,12.85,Food & Drink
+2026-04-29,Rent Payment Co,1200.00,Housing
+2026-04-30,Target,57.63,Shopping
+2026-05-01,Netflix,15.99,Entertainment
+2026-05-02,Starbucks,5.75,Food & Drink
+2026-05-03,Shell Gas Station,43.50,Transportation
+2026-05-04,Whole Foods,88.14,Groceries
+2026-05-05,Amazon,44.99,Shopping
+2026-05-06,Chipotle,13.40,Food & Drink
+2026-05-07,Spotify,10.99,Entertainment
+2026-05-08,Uber,17.65,Transportation
+2026-05-09,Trader Joe's,49.93,Groceries
+2026-05-10,Starbucks,6.45,Food & Drink
+2026-05-11,CVS Pharmacy,31.27,Health
+2026-05-12,Grand Hotel Resort,612.00,Travel
+2026-05-13,Olive Garden,55.20,Food & Drink
+2026-05-14,Amazon,26.50,Shopping
+2026-05-15,Planet Fitness,24.99,Health
+2026-05-16,Shell Gas Station,45.90,Transportation
+2026-05-17,Starbucks,7.20,Food & Drink
+2026-05-18,Whole Foods,79.48,Groceries
+2026-05-19,Chipotle,14.10,Food & Drink
+2026-05-20,Target,68.92,Shopping
+2026-05-21,Uber,22.40,Transportation
+2026-05-22,AMC Theatres,30.75,Entertainment
+2026-05-23,Trader Joe's,53.16,Groceries
+2026-05-24,Starbucks,6.45,Food & Drink
+2026-05-25,Home Depot,112.36,Home
+2026-05-26,Amazon,33.75,Shopping
+2026-05-27,Chipotle,12.85,Food & Drink
+2026-05-28,Shell Gas Station,41.70,Transportation
+2026-05-29,Rent Payment Co,1200.00,Housing
+2026-05-30,Whole Foods,86.59,Groceries
+2026-05-31,Starbucks,5.75,Food & Drink
